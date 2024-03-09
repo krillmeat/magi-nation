@@ -1,0 +1,32 @@
+{
+  "MN": {
+    "Wence": {
+      "cardType": "magi",
+      "regions": ["naroom"]
+    },
+    "Poad": {
+      "cardType": "magi",
+      "regions": ["naroom"]
+    },
+    "Tryn": {
+      "cardType": "magi",
+      "regions": ["naroom"]
+    },
+    "Yaki": {
+      "cardType": "magi",
+      "regions": ["naroom"]
+    },
+    "Evu": {
+      "cardType": "magi",
+      "regions": ["naroom"]
+    },
+    "Pruitt": {
+      "cardType": "magi",
+      "regions": ["naroom"]
+    },
+    "Orwin": {
+      "cardType": "magi",
+      "regions": ["naroom"]
+    }
+  }
+}
