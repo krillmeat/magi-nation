@@ -1,0 +1,13 @@
+#card-library{
+  display: flex;
+    flex-wrap: wrap;
+  width: calc(100% - 250px); min-height: 100vh;
+  margin-left: 250px;
+  padding-top: 48px;
+  background: #000;
+}
+
+#card-library .card{
+  width: 20%;
+  padding: 0px;
+}
